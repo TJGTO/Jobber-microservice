@@ -15,8 +15,8 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "jobber_helper",
-  "author": "",
+  "name": "@TJGTO/jobber_helper",
+  "author": "Tathagata Mondal",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TJGTO/Jobber-microservice.git"
